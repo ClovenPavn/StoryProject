@@ -1,1 +1,2 @@
-Pierwsza linia tekstu w rozdziale pierwszym. 
+Pierwsza linia tekstu w rozdziale pierwszym.
+Nowy branch. A więc nowa zawartość.
